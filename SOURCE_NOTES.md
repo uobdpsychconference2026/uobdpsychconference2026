@@ -1,0 +1,7 @@
+# Source notes / items to confirm
+
+1. **Keynote title mismatch:** the general timetable says “Who's in the Driver's Seat: Exploring Self-Knowledge in the Age of AI”; the dedicated keynote content file says “Who's in the Driver's Seat: Exploring Self-Knowledge in the Age of Tech”. The website uses **Age of Tech** throughout because the dedicated keynote file was treated as the speaker-specific source.
+2. **Overall event hours:** the legacy University webpage lists 09:00–17:00, while the supplied timetable includes welcome coffee at 08:30 and evening tea/coffee through 17:30. The homepage shows the date without an overall time; the programme displays the supplied 08:30–17:30 schedule.
+3. **Featured talks / workshops / panel abstracts:** these formats are included in the programme, but no full abstract text for them was present in the supplied files, so they are not included in the searchable abstract database or the downloadable abstract booklet.
+4. **Poster abstracts:** the category list supplied in the brief did not explicitly mention posters, but the uploaded poster file contains 26 full abstracts. They are included under **Poster Presentations** in the abstract database and booklet so that “all abstracts” is complete.
+5. **Oral programme gaps:** the supplied oral programme contains no listed talks for 14:30–14:45, 15:15–15:30, or 15:45–16:00. The website does not invent content for those slots.
